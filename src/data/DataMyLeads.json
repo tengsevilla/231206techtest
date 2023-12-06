@@ -1,0 +1,202 @@
+[
+    {
+      "id": 1,
+      "firstname": "Meriel",
+      "lastname": "Baggs",
+      "contactnumber": "570-304-5459",
+      "leadstatus": "jcb",
+      "service": "Home",
+      "supervisorname": "Meriel Baggs",
+      "lastupdated": "1/7/2023"
+    },
+    {
+      "id": 2,
+      "firstname": "Jimmy",
+      "lastname": "Jerams",
+      "contactnumber": "247-571-5729",
+      "leadstatus": "maestro",
+      "service": "Toys",
+      "supervisorname": "Jimmy Jerams",
+      "lastupdated": "5/20/2023"
+    },
+    {
+      "id": 3,
+      "firstname": "Lethia",
+      "lastname": "Yankov",
+      "contactnumber": "450-553-2154",
+      "leadstatus": "maestro",
+      "service": "Books",
+      "supervisorname": "Lethia Yankov",
+      "lastupdated": "11/2/2023"
+    },
+    {
+      "id": 4,
+      "firstname": "Carey",
+      "lastname": "McIlveen",
+      "contactnumber": "336-385-6681",
+      "leadstatus": "mastercard",
+      "service": "Movies",
+      "supervisorname": "Carey McIlveen",
+      "lastupdated": "6/2/2023"
+    },
+    {
+      "id": 5,
+      "firstname": "Bentley",
+      "lastname": "Mairs",
+      "contactnumber": "371-457-0618",
+      "leadstatus": "americanexpress",
+      "service": "Baby",
+      "supervisorname": "Bentley Mairs",
+      "lastupdated": "4/30/2023"
+    },
+    {
+      "id": 6,
+      "firstname": "Brandtr",
+      "lastname": "Codling",
+      "contactnumber": "911-511-0034",
+      "leadstatus": "bankcard",
+      "service": "Garden",
+      "supervisorname": "Brandtr Codling",
+      "lastupdated": "12/11/2022"
+    },
+    {
+      "id": 7,
+      "firstname": "Mommy",
+      "lastname": "Guyers",
+      "contactnumber": "595-161-1235",
+      "leadstatus": "americanexpress",
+      "service": "Beauty",
+      "supervisorname": "Mommy Guyers",
+      "lastupdated": "12/1/2023"
+    },
+    {
+      "id": 8,
+      "firstname": "Orsa",
+      "lastname": "Cattroll",
+      "contactnumber": "995-768-5190",
+      "leadstatus": "diners-club-carte-blanche",
+      "service": "Beauty",
+      "supervisorname": "Orsa Cattroll",
+      "lastupdated": "10/29/2023"
+    },
+    {
+      "id": 9,
+      "firstname": "Howie",
+      "lastname": "Garratty",
+      "contactnumber": "504-532-3034",
+      "leadstatus": "bankcard",
+      "service": "Music",
+      "supervisorname": "Howie Garratty",
+      "lastupdated": "4/16/2023"
+    },
+    {
+      "id": 10,
+      "firstname": "Merell",
+      "lastname": "Pletts",
+      "contactnumber": "808-991-3229",
+      "leadstatus": "jcb",
+      "service": "Sports",
+      "supervisorname": "Merell Pletts",
+      "lastupdated": "5/30/2023"
+    },
+    {
+      "id": 11,
+      "firstname": "Ricky",
+      "lastname": "Happert",
+      "contactnumber": "372-487-4990",
+      "leadstatus": "jcb",
+      "service": "Kids",
+      "supervisorname": "Ricky Happert",
+      "lastupdated": "10/13/2023"
+    },
+    {
+      "id": 12,
+      "firstname": "Romola",
+      "lastname": "McCrone",
+      "contactnumber": "984-892-8673",
+      "leadstatus": "visa-electron",
+      "service": "Jewelry",
+      "supervisorname": "Romola McCrone",
+      "lastupdated": "7/9/2023"
+    },
+    {
+      "id": 13,
+      "firstname": "Robbert",
+      "lastname": "Mateja",
+      "contactnumber": "604-649-3089",
+      "leadstatus": "diners-club-us-ca",
+      "service": "Home",
+      "supervisorname": "Robbert Mateja",
+      "lastupdated": "7/24/2023"
+    },
+    {
+      "id": 14,
+      "firstname": "Giusto",
+      "lastname": "Smorthwaite",
+      "contactnumber": "440-599-6862",
+      "leadstatus": "visa-electron",
+      "service": "Automotive",
+      "supervisorname": "Giusto Smorthwaite",
+      "lastupdated": "1/23/2023"
+    },
+    {
+      "id": 15,
+      "firstname": "Oralle",
+      "lastname": "Willbond",
+      "contactnumber": "387-770-8472",
+      "leadstatus": "maestro",
+      "service": "Clothing",
+      "supervisorname": "Oralle Willbond",
+      "lastupdated": "3/10/2023"
+    },
+    {
+      "id": 16,
+      "firstname": "Malorie",
+      "lastname": "Romera",
+      "contactnumber": "215-428-8542",
+      "leadstatus": "china-unionpay",
+      "service": "Toys",
+      "supervisorname": "Malorie Romera",
+      "lastupdated": "9/4/2023"
+    },
+    {
+      "id": 17,
+      "firstname": "Robin",
+      "lastname": "Connichie",
+      "contactnumber": "520-269-0694",
+      "leadstatus": "jcb",
+      "service": "Toys",
+      "supervisorname": "Robin Connichie",
+      "lastupdated": "12/30/2022"
+    },
+    {
+      "id": 18,
+      "firstname": "Lucine",
+      "lastname": "Gresser",
+      "contactnumber": "373-462-5429",
+      "leadstatus": "jcb",
+      "service": "Shoes",
+      "supervisorname": "Lucine Gresser",
+      "lastupdated": "1/3/2023"
+    },
+    {
+      "id": 19,
+      "firstname": "Emmye",
+      "lastname": "Cescoti",
+      "contactnumber": "781-268-1583",
+      "leadstatus": "diners-club-enroute",
+      "service": "Outdoors",
+      "supervisorname": "Emmye Cescoti",
+      "lastupdated": "6/14/2023"
+    },
+    {
+      "id": 20,
+      "firstname": "Johny",
+      "lastname": "Canizares",
+      "contactnumber": "424-580-2816",
+      "leadstatus": "switch",
+      "service": "Jewelry",
+      "supervisorname": "Johny Canizares",
+      "lastupdated": "10/15/2023"
+    }
+   ]
